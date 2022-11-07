@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>The PC-9800 series, commonly shortened to PC-98 or 98, is a lineup of Japanese 16-bit and 32-bit personal computers manufactured by NEC from 1982 to 2000. The platform established NEC's dominance in the Japanese personal computer market, and, by 1999, more than 18 million units had been sold. While NEC did not market these specific machines in the West, it sold the NEC APC III, which had similar hardware as early PC-98 models.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>The PC-9800 series, commonly shortened to PC-98 or 98, is a lineup of Japanese 16-bit and 32-bit personal computers manufactured by NEC from 1982 to 2000.</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>NEC PC-980x</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Computer</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>1982</text>
+		</text>			
+		
+	</view>	
+	
+</theme>

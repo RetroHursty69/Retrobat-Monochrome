@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>GMR was a monthly magazine on video games that was published by Ziff-Davis — the publisher of such magazines as PC Magazine, Electronic Gaming Monthly, and Computer Gaming World (later Games for Windows: The Official Magazine). GMR was launched in February 2003, being sold in only the Electronics Boutique (EB) chain of video game stores.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>GMR was a monthly magazine on video games that was published by Ziff-Davis.</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>GMR</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Magazine</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>2003</text>
+		</text>			
+		
+	</view>	
+	
+</theme>

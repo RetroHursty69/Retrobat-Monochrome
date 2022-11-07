@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>Computer Gaming World (CGW) was an American computer game magazine published between 1981 and 2006. One of the few magazines of the era to survive the video game crash of 1983, it was sold to Ziff Davis in 1993. It expanded greatly through the 1990s and became one of the largest dedicated video game magazines, reaching around 500 pages by 1997.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>Computer Gaming World (CGW) was an American computer game magazine published between 1981 and 2006.</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>Computer Gaming World</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Magazine</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>1981</text>
+		</text>			
+		
+	</view>	
+	
+</theme>

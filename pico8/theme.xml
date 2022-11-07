@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>PICO-8 is a virtual machine and game engine created by Lexaloffle Games. It is a fantasy video game console that mimics the limited graphical and sound capabilities of 8-bit systems of the 1980s. The goal of this is to encourage creativity and ingenuity in producing games without being overwhelmed with the many possibilities of modern tools and machines. Such a design also allows PICO-8 games to have a familiar look and feel.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>PICO-8 is a virtual machine and game engine created by Lexaloffle Games.</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>Pico-8</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Virtual Machine</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>2015</text>
+		</text>			
+		
+	</view>	
+	
+</theme>

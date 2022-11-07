@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>A slot machine (American English), fruit machine (British English) or poker machine (Australian English and New Zealand English) is a gambling machine that creates a game of chance for its customers. Slot machines are also known pejoratively as one-armed bandits because of the large mechanical levers affixed to the sides of early mechanical machines and the games' ability to empty players' pockets and wallets as thieves would.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>A slot machine (American English), fruit machine (British English) or poker machine (Australian English and New Zealand English) is a gambling machine that creates a game of chance for its customers.</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>Fruit Machines</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Slot Machine</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>1981</text>
+		</text>			
+		
+	</view>	
+	
+</theme>

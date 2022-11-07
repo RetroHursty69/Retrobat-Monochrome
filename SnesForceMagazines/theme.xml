@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>Europress was a British magazine and software publisher based in Adlington, near Macclesfield, Cheshire. Their magazine publishing business was previously known as Database Publications. Among their titles was SNES Force, a magazine dedicated to the Super Nintendo Entertainment System.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>A magazine dedicated to the Super Nintendo Entertainment System.</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>SNES Force</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Magazine</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>1993</text>
+		</text>			
+		
+	</view>	
+	
+</theme>

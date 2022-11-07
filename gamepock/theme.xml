@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>The Epoch Game Pocket Computer is a second-generation handheld game console released by Epoch Co. in Japan in 1984 for 12,000 Japanese yen. It is also known as Pokekon and was one of the very few truly[clarification needed] handheld systems to be released in the early 1980s, preceding the Game Boy by 5 years.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>The Epoch Game Pocket Computer is a second-generation handheld game console released by Epoch Co.</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>Game Pocket</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Handheld</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>1984</text>
+		</text>			
+		
+	</view>	
+	
+</theme>

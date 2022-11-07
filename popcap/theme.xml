@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>Originally founded under the name "Sexy Action Cool", their first title was a strip poker game that served as a revenue stream for future titles. PopCap has developed several games for computers, consoles and mobile devices, with their most popular games being Bejeweled and Plants vs. Zombies games. PopCap was sold to Electronic Arts in 2011.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>PopCap has developed several games for computers, consoles and mobile devices.</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>PopCap</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Other</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>2000</text>
+		</text>			
+		
+	</view>	
+	
+</theme>

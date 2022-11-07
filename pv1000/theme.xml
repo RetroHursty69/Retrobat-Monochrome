@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>The Casio PV-1000 (ぴーぶいせん, Pi Bui-Sen) is a third-generation home video game console manufactured by Casio and released in Japan in 1983. It was discontinued less than a year after release.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>The Casio PV-1000 is a third-generation home video game console manufactured by Casio and released in Japan</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>Casio PV-1000</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Console</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>1983</text>
+		</text>			
+		
+	</view>	
+	
+</theme>

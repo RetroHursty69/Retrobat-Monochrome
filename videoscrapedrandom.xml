@@ -1,0 +1,10 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+<view name="system">
+	 <video name="system-video1" extra="true">
+        <path>{random}</path>  
+     </video>
+</view>
+
+</theme>

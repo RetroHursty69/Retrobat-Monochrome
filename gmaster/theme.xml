@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>The Game Master is a handheld game console manufactured by Hartung, and designed to compete with the Nintendo Game Boy. In Germany, it was marketed by Hartung itself, while in the UK it was released as the Systema 2000 by the already well-established maker of cheap LCD games Systema. It was also sold a few under alternate names in France, including the Videojet Game Master as well as for a few released by Hartung as the Hartung Super Game and the Hartung Game Tronic.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>The Game Master is a handheld game console manufactured by Hartung, and designed to compete with the Nintendo Game Boy.</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>Hartung Game Master</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Handheld</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>1990</text>
+		</text>			
+		
+	</view>	
+	
+</theme>

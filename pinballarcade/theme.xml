@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>The Pinball Arcade is a pinball video game developed by FarSight Studios. The game is a simulated collection of real pinball tables licensed by Gottlieb, Alvin G. and Company, and Stern Pinball, a company which also owns the rights of machines from Data East and Sega Pinball.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>The Pinball Arcade is a pinball video game developed by FarSight Studios.</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>Pinball Arcade</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Pinball</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>2012</text>
+		</text>			
+		
+	</view>	
+	
+</theme>

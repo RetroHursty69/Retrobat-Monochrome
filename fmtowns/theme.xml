@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>The FM Towns is a Japanese personal computer, built by Fujitsu from February 1989 to the summer of 1997. It started as a proprietary PC variant intended for multimedia applications and PC games, but later became more compatible with IBM PC compatibles. In 1993, the FM Towns Marty was released, a game console compatible with existing FM Towns games.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>The FM Towns is a Japanese personal computer, built by Fujitsu from February 1989 to the summer of 1997.</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>Fujitsu FM Towns</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Computer</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>1989</text>
+		</text>			
+		
+	</view>	
+	
+</theme>

@@ -1,0 +1,52 @@
+<!--
+theme name:     XXXXXXX! December 2022 suited for 16:9
+creator:		Dwayne Hurst (aka Hursty)
+version         1.0
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<theme defaultView="theme">
+   <formatVersion>7</formatVersion>
+
+
+<feature supported="carousel">
+   <view name="system"> 
+
+     <image name="logo">
+       <linearSmooth>true</linearSmooth>  
+	   <path>./_inc/logo.png</path>  	   
+	   </image> 
+ 
+	   	 <carousel name="systemcarousel">
+          <zIndex>1</zIndex>
+          <logoScale>1</logoScale>	      
+          <type>horizontal</type>
+          <pos>1.5 0</pos>
+          <size>1 1</size>
+          <logoSize>0.175 0.175</logoSize>
+          <color>00000000</color>
+          <maxLogoCount>1</maxLogoCount>
+          <logoAlignment>center</logoAlignment>		  
+         </carousel> 
+ 
+	 <image name="logo1" extra="true">
+        <path>./_inc/images/Default_Logo.png</path>		 
+        <size>0.18 1 </size>		
+        <pos>0 0</pos>
+        <path>./_inc/logo.png</path>
+        <zIndex>10</zIndex>
+		<storyboard>
+		  <animation property="offsetX" from="-0.7" to="0" begin="0" duration="1700" mode="linear"/>			  
+		</storyboard>		
+	 </image> 
+
+     <image name="arrows" extra="true">
+        <size>1 1 </size>		
+        <pos>0 0</pos>
+        <path>./_inc/images/arrowsLR.png</path>
+        <zIndex>10</zIndex>	
+	 </image>		 
+ 
+   </view>
+ </feature>
+</theme>

@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>GamesMaster was a monthly multi-format computer and video game magazine published by Future plc in the United Kingdom. As of 2012, it was the biggest selling multi-format video games magazine in the United Kingdom, outselling its partner publication Edge. Along with partner magazine GamesTM, it ceased print in November 2018. It was originally launched to complement the television show GamesMaster.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>GamesMaster was a monthly multi-format computer and video game magazine published by Future plc in the United Kingdom.</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>Games Master</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Magazine</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>1993</text>
+		</text>			
+		
+	</view>	
+	
+</theme>

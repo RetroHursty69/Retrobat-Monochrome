@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>The APF Imagination Machine is a combination home video game console and home computer system released by APF Electronics Inc. in late 1979.[1] It has two separate components, the APF-M1000 game system, and an add-on docking bay with full sized typewriter keyboard and tape drive.[2] The APF-M1000 was built specifically to compete with the Atari 2600.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>The APF Imagination Machine is a combination home video game console and home computer system released by APF Electronics Inc.</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>Imagination Machine</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Console</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>1979</text>
+		</text>			
+		
+	</view>	
+	
+</theme>

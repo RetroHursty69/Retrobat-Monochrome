@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>The UK version of the Sega Magazine was a monthly magazine devoted to the many Sega consoles of the early 1990s, including the Sega Master System, Sega Mega Drive (plus Sega Mega-CD and Sega 32X accessories), Sega Game Gear and eventually Sega Saturn.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>The UK version of the Sega Magazine was a monthly magazine devoted to the many Sega consoles of the early 1990s.</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>Official Sega Magazine</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Magazine</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>1993</text>
+		</text>			
+		
+	</view>	
+	
+</theme>

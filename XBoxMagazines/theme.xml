@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>Official Xbox Magazine (or OXM for short) was a British monthly video game magazine which started in November 2001 around the launch of the original Xbox. A preview issue was released at E3 2001, with another preview issue in November 2001. The magazine was bundled with a disc that included game demos, preview videos and trailers, and other content, such as game or Xbox updates and free gamerpics. The discs also provided the software for the Xbox 360 for backward compatibility of original Xbox games for those without broadband and Xbox Live access.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>Official Xbox Magazine (or OXM for short) was a British monthly video game magazine which started in November 2001.</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>Official Xbox Magazine</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Magazine</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>2001</text>
+		</text>			
+		
+	</view>	
+	
+</theme>

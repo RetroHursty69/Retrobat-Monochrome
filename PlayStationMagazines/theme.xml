@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>Official U.S. PlayStation Magazine (often abbreviated to OPM) was a monthly video game magazine, published by Ziff Davis Media. It was a sister publication of Electronic Gaming Monthly.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>Official U.S. PlayStation Magazine (often abbreviated to OPM) was a monthly video game magazine, published by Ziff Davis Media.</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>PlayStation Magazine</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Magazine</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>1997</text>
+		</text>			
+		
+	</view>	
+	
+</theme>

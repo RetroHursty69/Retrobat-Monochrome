@@ -1,0 +1,38 @@
+<!--
+theme name:     MONOCHROME! December 2022 suited for 16:9
+creator:		Dwayne Hurst (aka Hursty)
+version         1.0
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<theme defaultView="theme">
+   <formatVersion>7</formatVersion>
+
+   <view name="system"> 
+     <image name="overlay2" extra="true">
+        <path>./_inc/images/green_strip.png</path>
+	 </image>
+
+     <image name="overlay3" extra="true">
+        <path>./_inc/images/green_shade.png</path>
+	 </image>
+
+     <image name="overlay4" extra="true">
+        <path>./_inc/images/green_textback.png</path>
+	 </image> 			 
+   </view>
+-----------------------------------------------------------------------------------------------
+    <view name="basic"> 
+     <image name="overlay5" extra="true">
+        <path>./_inc/images/green_systembackbasic.png</path>
+	 </image>
+   </view>
+-----------------------------------------------------------------------------------------------
+    <view name="detailed,video,grid,gamecarousel"> 
+     <image name="overlay8" extra="true">
+        <path>./_inc/images/green_systemback.png</path>
+	 </image>
+   </view>
+-----------------------------------------------------------------------------------------------
+ 
+</theme>

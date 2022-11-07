@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>Sega Saturn Magazine was a monthly UK magazine covering the Sega Saturn, a home video game console. It held the official Saturn magazine license for the UK, and some issues included a demo CD created by Sega, Sega Flash, which included playable games and game footage. In 1997, the magazine reported a readership of 30,140. The last issue, 37, was published in November 1998.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>Sega Saturn Magazine was a monthly UK magazine covering the Sega Saturn, a home video game console.</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>Sega Saturn Magazine</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Magazine</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>1994</text>
+		</text>			
+		
+	</view>	
+	
+</theme>

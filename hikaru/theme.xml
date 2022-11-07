@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>The Sega Hikaru is a successor to Sega's NAOMI and Model 3 arcade systems. It was most notable for being the most powerful arcade system at the time but, due to its high cost, only seven games were developed for it before it was succeeded by the more affordable NAOMI 2.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>The Sega Hikaru is a successor to Sega's NAOMI and Model 3 arcade systems.</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>Sega Hikaru</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Arcade</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>1999</text>
+		</text>			
+		
+	</view>	
+	
+</theme>

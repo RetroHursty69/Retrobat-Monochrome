@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>Raze was a short lived multi-format magazine published by Newsfield Publications from October 1990 to September 1991. The magazine was the successor to Newsfield’s own multi-format title The Games Machine. The editorial for Raze was contracted out to Richard Monteiro’s Words Works Limited. The magazine itself was planned to be replaced after its initial 12 month run with two separate titles that would concentrate on the Sega and Nintendo consoles (Sega Force and Nintendo Force), however, those plans were put on hold when Newsfield entered liquidation in 1991.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>Raze was a short lived multi-format magazine published by Newsfield Publications from October 1990 to September 1991.</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>Raze</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Magazine</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>1990</text>
+		</text>			
+		
+	</view>	
+	
+</theme>

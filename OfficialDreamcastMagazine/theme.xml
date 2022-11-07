@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>The Official Dreamcast Magazine (commonly abbreviated as ODCM and formerly known as Official Sega Dreamcast Magazine) was a video game magazine for the Dreamcast published in the United States. The magazine's initial issue "0" was released in June 1999, a full 3 months before the launch of the system.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>The Official Dreamcast Magazine was a video game magazine for the Dreamcast published in the United States.</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>Official Dreamcast Magazine</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Magazine</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>1999</text>
+		</text>			
+		
+	</view>	
+	
+</theme>

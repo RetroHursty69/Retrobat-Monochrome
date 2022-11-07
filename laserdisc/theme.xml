@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>The LaserDisc (LD) is a home video format and the first commercial optical disc storage medium, initially licensed, sold and marketed as MCA DiscoVision (also known simply as "DiscoVision") in the United States in 1978. Its diameter typically spans 30 cm (12 in). Unlike most optical disc standards, LaserDisc is not fully digital, and instead requires the use of analog video signals.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>The LaserDisc (LD) is a home video format and the first commercial optical disc storage medium.</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>LaserDisc</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Other</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>1978</text>
+		</text>			
+		
+	</view>	
+	
+</theme>

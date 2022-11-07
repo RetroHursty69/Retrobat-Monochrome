@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>The Mega Duck WG-108 (also known as Cougar Boy) is a handheld game console that was developed and manufactured by Hong Kong-based Welback Holdings through its Timlex International division, and released in 1993.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>The Mega Duck WG-108 is a handheld game console that was developed and manufactured by Hong Kong-based Welback Holdings.</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>Mega Duck</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Handheld</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>1993</text>
+		</text>			
+		
+	</view>	
+	
+</theme>

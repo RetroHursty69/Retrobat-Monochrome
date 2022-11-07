@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>PC Gamer is a magazine and website founded in the United Kingdom in 1993 devoted to PC gaming and published monthly by Future plc. The magazine has several regional editions, with the UK and US editions becoming the best selling PC games magazines in their respective countries.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>PC Gamer is a magazine and website founded in the United Kingdom in 1993 devoted to PC gaming and published monthly by Future plc.</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>PC Gamer</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Magazine</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>1993</text>
+		</text>			
+		
+	</view>	
+	
+</theme>

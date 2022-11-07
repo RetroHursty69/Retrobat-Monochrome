@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>S.W.A.T.PRO magazine Video Game tips, Tactics, and Strategies.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>S.W.A.T.PRO magazine Video Game tips, Tactics, and Strategies.</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>S.W.A.T.Pro</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Magazine</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>1994</text>
+		</text>			
+		
+	</view>	
+	
+</theme>

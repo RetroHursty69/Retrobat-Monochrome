@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>Gamepro.com is an international multiplatform video game magazine media company that covers the video game industry, video game hardware and video game software in countries such as Germany, and France. The publication, GamePro, was originally launched as an American online and print content video game magazine. The magazine featured content on various video game consoles, PC computers and mobile devices.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>Gamepro.com is an international multiplatform video game magazine media company that covers the video game industry.</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>Game Pro Mags</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Magazine</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>1989</text>
+		</text>			
+		
+	</view>	
+	
+</theme>

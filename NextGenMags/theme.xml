@@ -1,0 +1,32 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<include>./../theme.xml</include>
+
+		<view name="system, basic, detailed, video, grid, gamecarousel">
+			<image name="logo">
+				<path>./_inc/system.png</path>
+			</image>
+			
+		<text name="TextDescLong" extra="true">
+				<text>Next Generation was a video game magazine that was published by Imagine Media (now Future US). It was affiliated to and shared editorial with the UK's Edge magazine. Next Generation ran from January 1995 until January 2002. It was published by Jonathan Simpson-Bint and edited by Neil West. Other editors included Chris Charla, Tom Russo, and Blake Fischer.</text>
+		</text>
+
+		<text name="TextDescShort" extra="true">
+				<text>Next Generation was a video game magazine that was published by Imagine Media (now Future US).</text>
+		</text>
+		
+		<text name="TextDescName" extra="true">
+				<text>Next Generation Magazine</text>
+		</text>
+
+		<text name="TextDescCategory" extra="true">
+				<text>Magazine</text>
+		</text>	
+
+		<text name="TextDescYear" extra="true">
+				<text>1995</text>
+		</text>			
+		
+	</view>	
+	
+</theme>
